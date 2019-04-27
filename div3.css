@@ -1,0 +1,27 @@
+
+
+
+#div3>img{
+
+}
+
+#div3>div{
+	display: flex;
+	height;
+	background: url(../img/mst_ab693f80c37ef10b2ad70212c9e5984c.jpg);
+	background-size:100%;
+	align-items: center;
+	border-radius: 100px;
+	
+
+	width: 33%;
+.card
+{
+	background-color: white;
+	border-radius: 100px;
+	overflow: hidden;
+	margin-bottom:10px;
+}
+
+
+
